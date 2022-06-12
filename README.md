@@ -330,6 +330,9 @@ NO ES POSIBLE DIFERENCIAR EL VALOR DE CADA RESISTENCIA EN LA IMAGEN.
 
 <h2><b>5. CONCLUSIONES</b></h2> 
 
+    - En base a los ejercicios planteados se afirma que la ley de Kirchhoff se cumple, ya que en un circuito electrico la suma de las corrientes que entran a un nodo es igual a la suma de las corrientes que salen del mismo y que en un circuito electrico la suma de estos valores es igual a cero. 
+    
+    - Concluyendo se puede determinar la importancia que tiene cada uno de los conceptos aprendidos en estos dos capitulos, ya que en base a los divisores de voltaje, localizacion de fallas y las leyes de Kirchhoff se puede obtener respuestas claras. 
 
 <h2><b>6. BIBLIOGRAFIA</b></h2> 
 
