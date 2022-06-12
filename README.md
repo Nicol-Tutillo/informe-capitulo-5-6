@@ -4,25 +4,47 @@ TUTILLO CHIMARRO NICOL CAROLINA
 
     1.1 Objetivo General 
     
-    Comprender los conceptos básicos de circuitos electrónicos y emplearlos correctamente al realizar operaciones y análisis matemáticos. 
+    Comprender los conceptos básicos de circuitos electrónicos y emplearlos correctamente al realizar operaciones y análisis matemáticos. Asi como tambien aplicar principios indicados en los capitulos anteriores y utilizarlos para los diferentes claculos. 
 
     1.2 Objetivos Específicos
       
-    - Identificar que bases son necesarias al momento de calcular resistencias, intensidades y voltajes.
-    - Identificar la señalética propia de los circuitos electrónicos y dar soluciones a los problemas planteados. 
+    - Identificar un circuito resistivo en serie
+    - Explicar por qué los valores de resistencia se suman cuando los resistores están conectados en serie
+    - Encontrar el voltaje entre los extremos de cada resistor en serie
+    - Identificar un circuito resistivo en paralelo
+    - Explicar por qué el voltaje es el mismo a través de todos los resistores dispuestos en paralelo
+    - Localizar fallas en circuitos en paralelo
 <h2><b>2. MARCO TEORICO</b></h2>
 
-![CIRCUITOS EN SERIE ](https://user-images.githubusercontent.com/105675032/172749488-70e2238a-09c4-4bce-b820-7962001837c3.png)
+![image](https://user-images.githubusercontent.com/105675032/173254191-546d76c9-ba7b-40b8-af88-76b23cf79a15.png)
 
-![CIRCUITOS EN SERIE 2](https://user-images.githubusercontent.com/105675032/172749492-388db304-bb00-477d-b292-a48446435b79.png)
+![image](https://user-images.githubusercontent.com/105675032/173254206-93fafb31-9edf-4c0f-ba03-617bbab267a3.png)
 
-![CIRCUITOS EN SERIE 3 ](https://user-images.githubusercontent.com/105675032/172749500-832313ec-0c1c-4ec8-8944-1c347d5adeb7.png)
+![image](https://user-images.githubusercontent.com/105675032/173254225-f0598213-b045-4d77-b18c-a7fb56659e9a.png)
 
-![CIRCUITOS EN SERIE 4](https://user-images.githubusercontent.com/105675032/172749598-91bba64e-772b-4a30-9259-6c5de70e7ca0.png)
+![image](https://user-images.githubusercontent.com/105675032/173254240-001b4d95-4432-4226-951c-6cdb3156a160.png)
 
-![CIRCUITOS EN SERIE 5 ](https://user-images.githubusercontent.com/105675032/172749610-2f08f1a0-38f1-4bd1-9894-249860b14ebf.png)
+![image](https://user-images.githubusercontent.com/105675032/173254252-d346aaa5-b5ce-4cf6-8a15-75ebe205bbfa.png)
 
-<h3><b>- Procedimiento capítulo 1</b></h3>
+![image](https://user-images.githubusercontent.com/105675032/173254268-2c55ead4-71f2-406a-bebf-6a29e1d5dadf.png)
+
+![image](https://user-images.githubusercontent.com/105675032/173254276-72be3f84-c9c1-453b-8713-2bf425e58421.png)
+
+![image](https://user-images.githubusercontent.com/105675032/173254286-119d069e-4aa2-4e68-8be5-749a9839c94f.png)
+
+![image](https://user-images.githubusercontent.com/105675032/173254294-4ba9217f-531a-4c86-a912-283056085814.png)
+
+![image](https://user-images.githubusercontent.com/105675032/173254314-f6ebc455-0ab9-4f1f-b729-0c763fc7b941.png)
+
+![image](https://user-images.githubusercontent.com/105675032/173254326-47142813-fb19-4271-a4e8-988921e9fca4.png)
+
+![image](https://user-images.githubusercontent.com/105675032/173254337-96b52ea0-5451-46bc-b40e-07d0da1806a0.png)
+
+![image](https://user-images.githubusercontent.com/105675032/173254345-aaf1c884-271d-4543-8784-37480c28cbd3.png)
+
+![image](https://user-images.githubusercontent.com/105675032/173254352-e73ffdcb-158d-4591-b48a-e5f5d7aec2bc.png)
+
+<h3><b>- Procedimiento capítulo 5</b></h3>
 
     o	Primero se identificaron que tipo de problema se han planteado 
 
