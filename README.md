@@ -21,3 +21,6 @@ TUTILLO CHIMARRO NICOL CAROLINA
 ![CIRCUITOS EN SERIE 4](https://user-images.githubusercontent.com/105675032/172749598-91bba64e-772b-4a30-9259-6c5de70e7ca0.png)
 
 ![CIRCUITOS EN SERIE 5 ](https://user-images.githubusercontent.com/105675032/172749610-2f08f1a0-38f1-4bd1-9894-249860b14ebf.png)
+
+
+![image](https://user-images.githubusercontent.com/105675032/173242844-039fda54-f42b-4b38-a9eb-84ece0ac6a85.png)
