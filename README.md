@@ -33,3 +33,35 @@ TUTILLO CHIMARRO NICOL CAROLINA
 
 
 Puede ser posible conectar la fuente de voltaje desde el extremo positivo de la R5 hasta el extremo negativo de la R6, el amperímetro de igual modo puede ser conectado al extremo positivo del mismo y el otro extremo a cada una de las resistencias ya que la corriente se va mantener constante. 
+
+
+![image](https://user-images.githubusercontent.com/105675032/173243356-54ea4787-da2d-40b3-b504-10a1db631d16.png)
+
+
+![image](https://user-images.githubusercontent.com/105675032/173243364-b675fc22-6063-4e1c-a2b9-dcf44d7c5d8b.png)
+
+
+![image](https://user-images.githubusercontent.com/105675032/173243371-d46b7763-9f16-4740-93a9-3f11a334755a.png)
+
+
+![image](https://user-images.githubusercontent.com/105675032/173243385-96b1d312-828f-43ab-b734-f8f6c57da2a3.png)
+
+
+![image](https://user-images.githubusercontent.com/105675032/173243398-6fef74fd-0068-4ae3-9f48-715dd6b75507.png)
+
+
+![image](https://user-images.githubusercontent.com/105675032/173243414-c7c17a79-2a81-49e6-b496-c1351352501b.png)
+
+
+![image](https://user-images.githubusercontent.com/105675032/173243429-fa702f1d-175a-4225-a0b7-5722c134aae4.png)
+
+
+![image](https://user-images.githubusercontent.com/105675032/173243445-f3d508cc-8c5f-46a7-8c45-b601fcef699e.png)
+
+![image](https://user-images.githubusercontent.com/105675032/173243458-dcb1761c-f5f3-4cf4-93f8-7371c8005aa4.png)
+
+
+![image](https://user-images.githubusercontent.com/105675032/173243464-c808e8e1-603f-45dc-b99a-6e6e18434608.png)
+
+
+![image](https://user-images.githubusercontent.com/105675032/173243471-fcbd8d97-a9dd-4389-a5e1-8df5f3bbaa74.png)
