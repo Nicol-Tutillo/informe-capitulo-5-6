@@ -24,3 +24,12 @@ TUTILLO CHIMARRO NICOL CAROLINA
 
 
 ![image](https://user-images.githubusercontent.com/105675032/173242844-039fda54-f42b-4b38-a9eb-84ece0ac6a85.png)
+
+
+![image](https://user-images.githubusercontent.com/105675032/173243321-de7f1ded-1bf7-4e25-9ffd-4c6f11dcdf89.png)
+
+
+![image](https://user-images.githubusercontent.com/105675032/173243330-93e58edb-5624-4041-93bf-94c6310537cc.png)
+
+
+Puede ser posible conectar la fuente de voltaje desde el extremo positivo de la R5 hasta el extremo negativo de la R6, el amperímetro de igual modo puede ser conectado al extremo positivo del mismo y el otro extremo a cada una de las resistencias ya que la corriente se va mantener constante. 
