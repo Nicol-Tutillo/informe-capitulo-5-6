@@ -1,4 +1,4 @@
-# informe-capitulo-5-6
+# INFORME CAPITULO 5 - 6 
 TUTILLO CHIMARRO NICOL CAROLINA  
 <h2><b>1. OBJETIVOS</b></h2>
 
