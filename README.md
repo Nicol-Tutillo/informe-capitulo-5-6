@@ -50,11 +50,13 @@ TUTILLO CHIMARRO NICOL CAROLINA
 
     o	Se continuo con un análisis para determinar las posibles soluciones del problema. 
 
-    o	En el caso de los ejercicios planteados del 1-8 se aplicó notación científica, lo mismo que consistía en transformar de la notación decimal a notación científica, o viceversa, de notación científica a notación decimal. -
+    o	Se aplico la formula de la resistencia en serie para poder determinar los valores pedidos por el problema, y en vbase a la suma de valores de resistores en serie se obtuvo la respuesta. 
 
-    o	Del ejercicio del 8-12 se realizaron operaciones básicas como las sumas, restas, división y multiplicación, en notación científica. 
+    o	De igual manera se mepklearon las leyes de kirchooff, en este capitulo en especifico se utilizo la LEY DE VOLTAJE DE KIRCHHOFF. 
 
-    o	Del ejercicio 14-30 se aplicó la parte de notación de ingeniería misma que como se sabe pertenece al área de electrónica, en esta sección se hizo uso de los prefijos métricos para sus transformaciones. 
+    o	Se emplearon divisores de voltahe y sus formulas, de igual manera se hizo uso de la potencia en circuitos en serie ya que al ser en paralelo cambiaria totalmente. 
+    
+     o	En los ejercicios planteados se utilizo lo que es la localizacion de fallas en un circuito abierto y como identificar un cortocircuito.  
     
   <h3><b>- Solucion de ejercicios CAPITULO 1 </b></h3> 
   
@@ -197,8 +199,22 @@ El voltaje se mantiene constante en todo el circuito
 ![image](https://user-images.githubusercontent.com/105675032/173243635-271724e3-6a27-477f-936e-76859b1bbbb5.png)
 
 
-CAPITULO 6 
+<h3><b>- Procedimiento capítulo 6</b></h3> 
 
+    o	Primero se identificaron que tipo de problema se han planteado 
+
+    o	Se continuo con un análisis para determinar las posibles soluciones del problema. 
+
+    o	En el capitulo numero 6, se enfoca mas en los circuitos en paralelo, por lo que se emplearan formulas distintas a las que se utilizaron en los circuitos en serie. 
+
+    o	Een este capitulo en especifico se utilizo la LEY DE CORRIENTES DE KIRCHHOFF. 
+
+    o	Se emplearon las formulas de resistencia en paralelo, por lo que se ultilizo la formula de resistencia total para que de este modo se pueda determinar cuanto a se reduce en el circuito.  
+    
+     o	Asi mmismo se empleo la formula del calculo de resitores en paralelo del mismo valor y de resistor en paralelo desconocido.   
+     
+      o	Se emplearon localizacion de fallas en circuitos en paralelo y como localizar una rama abierta. Asi como tambien, determinar cuando un circuito esta haciendo corto.
+      
 2. Determine si todos los resistores de la figura 6-65(b) están conectados o no en paralelo en la tarjeta de circuito impreso.
 
 ![image](https://user-images.githubusercontent.com/105675032/173245350-03f18cea-1c98-4fde-95e3-7b9870cd66b6.png)
@@ -308,3 +324,15 @@ Determine la resistencia total.
 ![image](https://user-images.githubusercontent.com/105675032/173243885-acc38718-8a1a-43ba-b6b6-78504df9b258.png)
 
 NO ES POSIBLE DIFERENCIAR EL VALOR DE CADA RESISTENCIA EN LA IMAGEN. 
+
+<h2></b>4. VIDEO</b></h2>
+
+
+<h2><b>5. CONCLUSIONES</b></h2> 
+
+
+<h2><b>6. BIBLIOGRAFIA</b></h2> 
+
+Floyd, T. L., Salas, R. N., González, L. M. O., & López, G. P. (2007). Principios de circuitos eléctricos. Pearson Educación.
+
+
