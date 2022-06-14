@@ -327,6 +327,7 @@ NO ES POSIBLE DIFERENCIAR EL VALOR DE CADA RESISTENCIA EN LA IMAGEN.
 
 <h2></b>4. VIDEO</b></h2>
 
+https://youtu.be/j7Fx7tVp-dk
 
 <h2><b>5. CONCLUSIONES</b></h2> 
 
